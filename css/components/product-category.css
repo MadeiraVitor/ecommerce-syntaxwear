@@ -48,3 +48,14 @@
     background: url(../../images/products/futurista.jpg) no-repeat center;
     background-size: cover;
 }
+
+@media (max-width: 500px) {
+    .category-card {
+        width: 100%;
+    }
+
+    .sneaker-categories-section {
+        padding: 20px 0 20px 0;
+        gap: 15px;
+    }
+}

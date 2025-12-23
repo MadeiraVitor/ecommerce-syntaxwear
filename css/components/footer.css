@@ -73,3 +73,24 @@
     padding-top: 12px;
     padding-bottom: 20px;
 }
+
+@media (max-width: 1024px) {
+    .footer-content {
+        flex-direction: column;
+        gap: 2rem;
+        padding: 2rem 1rem;
+    }
+
+    .footer-newsletter input {
+        width: 19.5rem;
+    }
+
+    .footer-links {
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .footer-icons {
+        gap: 1rem;
+    }
+}
