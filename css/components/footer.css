@@ -63,6 +63,10 @@
     text-decoration: underline;
 }
 
+.footer-divider {
+    width: 94%;
+}
+
 .footer-copyright {
     font-size: 1.25rem;
     text-align: center;
