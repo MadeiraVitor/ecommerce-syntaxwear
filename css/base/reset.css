@@ -45,6 +45,7 @@ body {
 /* A elements that don't have a class get default styles */
 a {
   text-decoration: auto;
+  display: flex;
 }
 
 /* Make images easier to work with */
